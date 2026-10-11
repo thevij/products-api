@@ -14,5 +14,6 @@ public class Product {
 }
 public Long getId(){return id;}
 public String getName(){return name;}
+    //i would know this kind of by looking at the code and deleting the two slashes
 public double getPrice(){return price;}
 }
